@@ -1,0 +1,18 @@
+SITE DO CASAMENTO — ONEIDE & SAMIR
+===================================
+Arquivos:
+  index.html   -> o site inteiro (fotos já embutidas)
+  og.jpg       -> imagem da prévia no WhatsApp/Instagram
+  favicon.png  -> ícone da aba do navegador
+
+COMO HOSPEDAR (Netlify, grátis, ~5 min):
+  1. Acesse app.netlify.com e crie uma conta (pode usar o Google).
+  2. Na tela inicial, arraste ESTA PASTA inteira (com os 3 arquivos) para a área "Drag and drop your site".
+  3. Em segundos o site fica no ar em um endereço tipo nome-aleatorio.netlify.app.
+  4. Para usar o seu domínio: Site settings -> Domain management -> Add custom domain
+     e siga as instruções de DNS no Registro.br (ou onde comprou o domínio).
+
+DEPOIS DE SABER O ENDEREÇO FINAL:
+  Me mande o domínio (ex.: oneideesamir.com.br) que eu troco o "SEU-DOMINIO"
+  dentro do index.html para a prévia do WhatsApp mostrar a foto grande.
+  (Ou abra o index.html em um editor de texto e substitua as 2 ocorrências de SEU-DOMINIO.)
